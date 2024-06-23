@@ -1,9 +1,9 @@
 {
-  "name": "raganork-md",
+  "name": "casper-md",
   "version": "5.0.0",
   "description": "A light weight WhatsApp bot.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name Casper"
   },
   "repository": {
     "type": "git",
@@ -19,8 +19,8 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Traby",
+  "developer": "@traby-qriz",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
